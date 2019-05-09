@@ -1,0 +1,13 @@
+sep=;
+Matter-ID;Pending Date;Custom Field: URL;Custom Field: Image;Custom Field: Imprint;Custom Field: Website;Custom Field: Additional Usage;Custom field: CM info
+1-00001;2019-03-23;http://xxx.com/services/;https://player.xxx.com/video/99125284;;webseite;usage;cm
+1-00002;2019-03-23;;;;;;
+3-00001;2019-03-20;;;;;;
+1-00003;2019-03-20;https://www.facebook.com/xx.xxphotos/a.1553789191506427/1715480682003943/?type=3&theater;https://scontent.fwaw3-2.fna.fbcdn.net/v/t31.0-8/12968079_1715480682003943_5777245489665005802_o.jpg?_nc_cat=101&_nc_ht=scontent.fwaw3-2.fna&oh=7e7686e077b6c381e14795b236babe6f&oe=5D0D7AC0;https://xx-krakow.com.pl/contact-organizers/;xx-krakow.com.pl;;
+2-00002;2019-03-20;;;;;;
+1-00004;2019-03-19;url;image;imprint;website;additional;cm
+1-00005;2019-03-20;;;;;;
+2-00003;2019-03-20;;;;;;
+2-00004;2019-03-21;"URL - check24.de";"image - check24.de/image.png,
+
+check23.de/image24.png";"imprint - check24.de/impressum";;;"picture on page 8"
